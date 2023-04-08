@@ -6,6 +6,9 @@
     border-radius: 5px;
     width: 90vw;
     box-sizing: border-box;
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .filter-head{
@@ -30,4 +33,10 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     letter-spacing: 1px;
     font-weight: 500;
+}
+
+@media screen and (max-width : 1200px) {
+    .filter-by{
+        flex-direction: column;
+    }
 }

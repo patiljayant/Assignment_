@@ -28,7 +28,7 @@ const FilterBy : React.FC<props>= ({setFilterBy, filterBy}) => {
         setFilterBy(filterBy);
     }
   return (
-    <div className='filter-by flex justify-between align-center'>
+    <div className='filter-by'>
         <FilterDisplay 
             heading="Types"
             options={types}
