@@ -1,0 +1,33 @@
+.filter-by{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 40px 30px;
+    margin-bottom:40px;
+    border-radius: 5px;
+    width: 90vw;
+    box-sizing: border-box;
+}
+
+.filter-head{
+    align-self: flex-start;
+    color: #6b798c ;
+    margin-bottom: 15px;
+}
+
+.filter-display{
+    margin: 10px;
+}
+
+.filter-button{
+    background-color: rgb(38, 38, 207);
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: white;
+    font-size: medium;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}

@@ -1,0 +1,13 @@
+.table-footer{
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 20px;
+    color: #084b97;
+    font-weight: 600;
+    box-shadow: inset 0px 0px 10px #E6E6E6;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+
+.table-footer span{
+    cursor: pointer;
+}
